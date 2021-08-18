@@ -1,5 +1,8 @@
-.sakura_text{
+.sakura_main{
   font-size: 80%;
   font-family: Verdana;
-  color: purple; 
-}
+  color: purple;
+  background-color: pink;
+};
+
+
