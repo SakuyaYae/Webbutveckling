@@ -2,7 +2,16 @@
   font-size: 140%;
   font-family: Verdana;
   color: whitesmoke;
+  width: 100%;
   background-color: purple;
+  
 }
 
-
+.sakura_alt{
+  font-size: 22px;
+  margin: 8px auto;
+  background-color: purple;
+  width: 100%;
+  color: whitesmoke;
+  font-family: Verdana;
+}
