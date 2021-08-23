@@ -9,9 +9,15 @@
 
 .sakura_alt{
   font-size: 22px;
-  margin: 8px auto;
   background-color: purple;
   width: 100%;
   color: whitesmoke;
   font-family: Verdana;
 }
+
+a{
+  font-size: 120%;
+  color: whitesmoke;
+  font-family: Verdana;
+}
+
